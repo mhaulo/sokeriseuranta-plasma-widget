@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sokeriseuranta Plasma Widget
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=chronometer
+X-Plasma-API=ruby-script
+X-Plasma-MainScript=code/main.rb
+X-KDE-PluginInfo-Author=Mika Haulo
+X-KDE-PluginInfo-Email=mika.haulo@gmail.com
+X-KDE-PluginInfo-Name=sokeriseuranta-live
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://sokeriseuranta.fi
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-DefautSize=125,125
